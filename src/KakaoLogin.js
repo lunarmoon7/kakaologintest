@@ -1,4 +1,4 @@
-const restkey = "18f87ac6b50d69bd2295fe54622901b2";
+const restkey = "본인의 REST API 키";
 
 const KakaoLogin = () => {
   if (!window.Kakao.isInitialized()) {
